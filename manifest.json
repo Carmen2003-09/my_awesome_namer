@@ -1,6 +1,6 @@
 {
-    "name": "un_formulario",
-    "short_name": "un_formulario",
+    "name": "records_and_patterns",
+    "short_name": "records_and_patterns",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
